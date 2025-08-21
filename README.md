@@ -1,4 +1,4 @@
-# 🛣️ Road Crack Reporting – Bachelor Project 2024
+# Road Crack Reporting – Bachelor Project 2024
 
 ##  Overview
 This project introduces a **mobile and web-based system** to modernize and streamline how **road cracks** are reported in Norway.  
@@ -29,7 +29,7 @@ It is developed as part of the **Bachelor’s Thesis at the University of Agder 
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 - **Frontend (Mobile App)**: React Native + Expo  
 - **Frontend (Web Dashboard)**: React / JavaScript  
